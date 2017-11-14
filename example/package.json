@@ -1,0 +1,15 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "expo": "^22.0.0",
+    "react": "16.0.0-beta.5",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-22.0.2.tar.gz",
+    "react-native-animatable-promise": "^1.2.4",
+    "react-native-mba": "^0.1.0"
+  },
+  "name": "mba-example",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "author": "Victor Ramos"
+}

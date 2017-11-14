@@ -1,0 +1,5 @@
+example/node_modules/**/*
+example/.expo/*
+example/npm-debug.*
+.npmignore
+.DS_Store

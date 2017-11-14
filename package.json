@@ -1,0 +1,33 @@
+{
+  "name": "react-native-mba",
+  "version": "0.1.2",
+  "description": "React Native Components by MustBeApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustbeapp/react-native-mba.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "mustbeapp",
+    "must",
+    "be",
+    "app",
+    "mba",
+    "react-native",
+    "react-native-mba"
+  ],
+  "author": "Victor Ramos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mustbeapp/react-native-mba/issues"
+  },
+  "homepage": "https://github.com/mustbeapp/react-native-mba#readme",
+  "dependencies": {
+    "react-native-animatable-promise": "^1.2.4"
+  }
+}
